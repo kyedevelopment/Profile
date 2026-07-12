@@ -35,11 +35,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
 </div>
 
-###
-
-<p align="left">I also play too much siege!</p>
-
-###
 
 <div align="center">
   <img height="200" src="https://cdn.discordapp.com/attachments/939257249665269781/1308311571331551232/giphy.gif?ex=673d7b99&is=673c2a19&hm=2768f7339792add17635a0d7fe8bdd9406459314f7c8563f914b135a81b7d885&"  />
